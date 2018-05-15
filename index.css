@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+.side_bar {
+  background: gainsboro;
+  border-right: 1px solid #eee;
+  box-sizing: border-box;
+  background-size: auto 100%;
+  max-width: 200px;
+  /*calc(100% - 200px);*/
+  width: 20%;
+  height: 1000px;
+  margin: 5px ;
+}
+
+.main_field {
+  text-align: center;
+  width: auto;
+}
