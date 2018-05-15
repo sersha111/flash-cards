@@ -1,3 +1,4 @@
+// I added a comment to the file//
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {combineReducers, createStore} from 'redux';
